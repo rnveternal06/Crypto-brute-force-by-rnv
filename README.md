@@ -2,7 +2,7 @@
 # 🚀 DOGE BY RNV - Dogecoin BIP44 Wallet Scanner
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)  
-![License](https://img.shields.io/github/license/rnvternal06/crypto-brute-force-by-rnv)  
+![License](https://github.com/rnveternal06/Crypto-brute-force-by-rnv/blob/afb55947f7ebae7688b8fa4972fa3b14fa3fee19/LICENSE)  
 ![Platform](https://img.shields.io/badge/Platform-Pydroid3%20%7C%20Linux%20%7C%20PC-green)
 
 **DOGE BY RNV** is a Python script designed to brute-force scan Dogecoin wallets by generating BIP39 mnemonics and deriving addresses using the BIP44 standard.
